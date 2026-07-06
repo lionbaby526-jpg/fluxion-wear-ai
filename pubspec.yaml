@@ -1,0 +1,14 @@
+name: fluxion_wear_ai
+description: AI Smartwatch Companion
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_blue_plus: ^1.35.5
+  permission_handler: ^12.0.1
+  provider: ^6.1.5
+  shared_preferences: ^2.5.3
